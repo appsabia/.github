@@ -1,12 +1,19 @@
+<br>
+
 # Sabiá
 
-**Operação de comunicação multi-canal sob SLA.**
+### A gente cuida da comunicação da sua empresa.
 
-WhatsApp, e-mail e os próximos canais — operados pela gente, não plataformados pro cliente se virar sozinho.
+Você define o que falar.  
+A gente entrega — em qualquer canal.
 
-→ [appsabia.com](https://appsabia.com)
+WhatsApp, e-mail, SMS, Telegram, push. Operação completa, ponta a ponta. Sem você precisar virar especialista em chip, em DNS, ou em Meta. Quando algo trava, o problema é nosso.
+
+[**appsabia.com →**](https://appsabia.com)
+
+<br>
 
 ---
 
-<sub>**M. M. Rodrigues Silva LTDA** (nome fantasia Sabiá Tecnologia)<br/>
-CNPJ 57.791.112/0001-25 · Barbalha/CE, Brasil</sub>
+<sub>M. M. Rodrigues Silva LTDA — nome fantasia <strong>Sabiá Tecnologia</strong><br>
+CNPJ 57.791.112/0001-25 · Barbalha · Ceará · Brasil</sub>
