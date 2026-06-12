@@ -1,13 +1,17 @@
 <br>
 
-# Sabiá
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="sabia-logo-fundo-escuro-h256.png">
+  <img src="sabia-logo-fundo-claro-h256.png" alt="Sabiá" width="170">
+</picture>
 
-### A gente cuida da comunicação da sua empresa.
+### Saiba com quem sua empresa faz negócio.
 
-Você define o que falar.  
-A gente entrega — em qualquer canal.
+Um CNPJ ou um nome, cinco respostas: situação cadastral, sócios e rede societária,
+dívida ativa, sanções e contratos públicos.
 
-WhatsApp, e-mail, SMS, Telegram, push. Operação completa, ponta a ponta. Sem você precisar virar especialista em chip, em DNS, ou em Meta. Quando algo trava, o problema é nosso.
+27 bases públicas de 11 órgãos oficiais — 258,8 milhões de registros —
+e toda resposta com link pra conferir o registro na origem.
 
 [**appsabia.com →**](https://appsabia.com)
 
